@@ -1,0 +1,375 @@
+repo_name: caseyspaulding/Havit.Blazor
+report_id: b5322b7965d120a1e56dad6c25a1296f
+version: 0.1
+repo_type: Public
+timestamp: '2024-03-21T13:23:14+00:00'
+requested_by: hakenr
+provider: github
+branch: master
+detected_tools_count: 28
+tools:
+- name: C#
+  description: Simple, general-purpose, object-oriented programming language for the
+    .NET platform
+  website_url: http://csharp.net
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1015/1200px-C_Sharp_wordmark.svg.png
+  detection_source_url: https://github.com/caseyspaulding/Havit.Blazor
+  detection_source: Repo Metadata
+- name: CSS 3
+  description: The latest evolution of the Cascading Style Sheets language
+  website_url: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/caseyspaulding/Havit.Blazor
+  detection_source: Repo Metadata
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/caseyspaulding/Havit.Blazor
+  detection_source: Repo Metadata
+- name: ".NET"
+  description: A free, cross-platform, open source developer platform for building
+    many different types of applications
+  website_url: http://www.microsoft.com/net/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/1014/IoPy1dce_400x400.png
+  detection_source_url: https://github.com/caseyspaulding/Havit.Blazor/blob/master/Havit.Blazor.Grpc.Server/Havit.Blazor.Grpc.Server.csproj
+  detection_source: Havit.Blazor.Grpc.Server/Havit.Blazor.Grpc.Server.csproj
+  last_updated_by: Robert Haken
+  last_updated_on: 2022-03-21 16:05:16.000000000 Z
+- name: Autoprefixer
+  description: PostCSS plugin to parse CSS and add vendor prefixes to CSS rules
+  website_url: https://github.com/postcss/autoprefixer
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: CSS Pre-processors / Extensions
+  image_url: https://img.stackshare.io/service/2202/72d087642cfce6fef6f2dabec5bf49e8_400x400.png
+  detection_source_url: https://github.com/caseyspaulding/Havit.Blazor/blob/master/Havit.Bootstrap/package.json
+  detection_source: Havit.Bootstrap/package.json
+  last_updated_by: dominikcrha
+  last_updated_on: 2023-09-20 15:31:02.000000000 Z
+- name: Bootstrap
+  description: Simple and flexible HTML, CSS, and JS for popular UI components and
+    interactions
+  website_url: http://getbootstrap.com/
+  version: 5.3.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Front-End Frameworks
+  image_url: https://img.stackshare.io/service/1101/C9QJ7V3X.png
+  detection_source_url: https://github.com/caseyspaulding/Havit.Blazor/blob/master/Havit.Bootstrap/package-lock.json
+  detection_source: Havit.Bootstrap/package.json
+  last_updated_by: dominikcrha
+  last_updated_on: 2023-09-20 15:31:02.000000000 Z
+- name: PostCSS
+  description: Transform CSS with JS plugins
+  website_url: https://github.com/postcss/postcss
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: CSS Pre-processors / Extensions
+  image_url: https://img.stackshare.io/service/3339/rlFcjEdI.png
+  detection_source_url: https://github.com/caseyspaulding/Havit.Blazor/blob/master/Havit.Bootstrap/package.json
+  detection_source: Havit.Bootstrap/package.json
+  last_updated_by: Dominik Crha
+  last_updated_on: 2021-04-06 13:04:48.000000000 Z
+- name: Protobuf
+  description: Google's data interchange format
+  website_url: https://developers.google.com/protocol-buffers/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Serialization Frameworks
+  image_url: https://img.stackshare.io/service/4393/ma2jqJKH_400x400.png
+  detection_source_url: https://github.com/caseyspaulding/Havit.Blazor/blob/master/Havit.Blazor.Grpc.Client.WebAssembly/Havit.Blazor.Grpc.Client.WebAssembly.csproj
+  detection_source: Havit.Blazor.Grpc.Client.WebAssembly/Havit.Blazor.Grpc.Client.WebAssembly.csproj
+  last_updated_by: Robert Haken
+  last_updated_on: 2023-06-02 12:29:28.000000000 Z
+- name: Sass
+  description: Syntactically Awesome Style Sheets
+  website_url: http://sass-lang.com/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: CSS Pre-processors / Extensions
+  image_url: https://img.stackshare.io/service/1171/jCR2zNJV.png
+  detection_source_url: https://github.com/caseyspaulding/Havit.Blazor/blob/master/Havit.Bootstrap/package.json
+  detection_source: Havit.Bootstrap/package.json
+  last_updated_by: Dominik Crha
+  last_updated_on: 2021-04-06 13:04:48.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/caseyspaulding/Havit.Blazor
+  detection_source: Repo Metadata
+- name: GitHub Actions
+  description: Automate your workflow from idea to production
+  website_url: https://github.com/features/actions
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Continuous Integration
+  image_url: https://img.stackshare.io/service/11563/actions.png
+  detection_source_url: https://github.com/caseyspaulding/Havit.Blazor/blob/master/.github/workflows/dotnet.yml
+  detection_source: ".github/workflows/dotnet.yml"
+  last_updated_by: Robert Haken
+  last_updated_on: 2023-11-14 11:39:33.000000000 Z
+- name: Moq
+  description: The most popular and friendly mocking framework for .NET
+  website_url: https://github.com/Moq/moq4
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Testing Frameworks
+  image_url: https://img.stackshare.io/service/1628/1434934.png
+  detection_source_url: https://github.com/caseyspaulding/Havit.Blazor/blob/master/Havit.Blazor.Components.Web.Bootstrap.Tests/Havit.Blazor.Components.Web.Bootstrap.Tests.csproj
+  detection_source: Havit.Blazor.Components.Web.Bootstrap.Tests/Havit.Blazor.Components.Web.Bootstrap.Tests.csproj
+  last_updated_by: Jiří Kanda
+  last_updated_on: 2021-01-18 13:32:52.000000000 Z
+- name: NuGet
+  description: The package manager for .NET
+  website_url: https://www.nuget.org/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/service/2637/6I3oEOP4_400x400.jpg
+  detection_source_url: https://github.com/caseyspaulding/Havit.Blazor/blob/master/Havit.Blazor.Grpc.Server/Havit.Blazor.Grpc.Server.csproj
+  detection_source: Havit.Blazor.Grpc.Server/Havit.Blazor.Grpc.Server.csproj
+  last_updated_by: Robert Haken
+  last_updated_on: 2021-08-16 11:48:01.000000000 Z
+- name: Stylelint
+  description: A mighty, modern CSS linter
+  website_url: http://stylelint.io/
+  version: 15.10.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  image_url: https://img.stackshare.io/service/5446/V9JsvPul_400x400.jpg
+  detection_source_url: https://github.com/caseyspaulding/Havit.Blazor/blob/master/Havit.Bootstrap/package-lock.json
+  detection_source: Havit.Bootstrap/package.json
+  last_updated_by: dominikcrha
+  last_updated_on: 2023-09-20 15:31:02.000000000 Z
+- name: Visual Studio
+  description: State-of-the-art tools and services that you can use to create great
+    apps for devices, the cloud, and everything in between.
+  website_url: http://msdn.microsoft.com/en-us/vstudio/aa718325.aspx
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Integrated Development Environment
+  image_url: https://img.stackshare.io/service/1451/SR2hUhQN.png
+  detection_source_url: https://github.com/caseyspaulding/Havit.Blazor/blob/master/Havit.Blazor.sln
+  detection_source: Havit.Blazor.sln
+  last_updated_by: Mikuláš Hoblík
+  last_updated_on: 2021-11-16 15:08:37.000000000 Z
+- name: Yarn
+  description: A new package manager for JavaScript
+  website_url: https://yarnpkg.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/5848/44mC-kJ3.jpg
+  detection_source_url: https://github.com/caseyspaulding/Havit.Blazor/blob/master/Havit.Bootstrap/yarn.lock
+  detection_source: Havit.Bootstrap/yarn.lock
+  last_updated_by: Dominik Crha
+  last_updated_on: 2021-04-06 13:57:54.000000000 Z
+- name: nodemon
+  description: A simple monitor script for use during development of a node.js app
+  website_url: http://nodemon.io/
+  version: 3.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Monitoring
+  sub_category: node.js Application Monitoring
+  image_url: https://img.stackshare.io/service/5577/preview.png
+  detection_source_url: https://github.com/caseyspaulding/Havit.Blazor/blob/master/Havit.Bootstrap/package-lock.json
+  detection_source: Havit.Bootstrap/package.json
+  last_updated_by: dominikcrha
+  last_updated_on: 2023-09-20 15:31:02.000000000 Z
+- name: npm
+  description: The package manager for JavaScript.
+  website_url: https://www.npmjs.com/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/caseyspaulding/Havit.Blazor/blob/master/Havit.Bootstrap/package.json
+  detection_source: Havit.Bootstrap/package.json
+  last_updated_by: Dominik Crha
+  last_updated_on: 2021-04-06 13:04:48.000000000 Z
+- name: Grpc.Net.Client
+  description: ".NET client for gRPC"
+  package_url: https://www.nuget.org/Grpc.Net.Client
+  version: 2.59.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/15548/default_9e6c5b16645c805765637f65779b2a8071a09c95.png
+  detection_source_url: https://github.com/caseyspaulding/Havit.Blazor/blob/master/Havit.Blazor.Grpc.Client/Havit.Blazor.Grpc.Client.csproj
+  detection_source: Havit.Blazor.Grpc.Client/Havit.Blazor.Grpc.Client.csproj
+  last_updated_by: Robert Haken
+  last_updated_on: 2023-11-14 15:03:33.000000000 Z
+- name: MSTest.TestFramework
+  description: This is MSTest V2, the evolution of Microsoft's Test Framework
+  package_url: https://www.nuget.org/MSTest.TestFramework
+  version: 3.1.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13142/default_a057bdad489be3cb053d372a68695da4ac94962d.png
+  detection_source_url: https://github.com/caseyspaulding/Havit.Blazor/blob/master/Havit.Blazor.Components.Web.Bootstrap.Tests/Havit.Blazor.Components.Web.Bootstrap.Tests.csproj
+  detection_source: Havit.Blazor.Components.Web.Bootstrap.Tests/Havit.Blazor.Components.Web.Bootstrap.Tests.csproj
+  last_updated_by: Robert Haken
+  last_updated_on: 2023-11-14 15:03:33.000000000 Z
+- name: Microsoft.AspNetCore.Components.Web
+  description: Support for rendering ASP.NET Core components for browsers
+  package_url: https://www.nuget.org/Microsoft.AspNetCore.Components.Web
+  version: 8.0.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13128/default_59c6e81d6f4034b10a10bd52ec71c48c8d66e4eb.png
+  detection_source_url: https://github.com/caseyspaulding/Havit.Blazor/blob/master/Havit.Blazor.Components.Web/Havit.Blazor.Components.Web.csproj
+  detection_source: Havit.Blazor.Components.Web/Havit.Blazor.Components.Web.csproj
+  last_updated_by: Robert Haken
+  last_updated_on: 2023-11-15 10:53:50.000000000 Z
+- name: Microsoft.Extensions.Localization
+  description: Application localization services and default implementation based
+    on ResourceManager to load localized assembly resources
+  package_url: https://www.nuget.org/Microsoft.Extensions.Localization
+  version: 8.0.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13297/default_1e1f93823dcbf467a805adfd578c74f8f54c6a4e.png
+  detection_source_url: https://github.com/caseyspaulding/Havit.Blazor/blob/master/Havit.Blazor.Components.Web.Bootstrap/Havit.Blazor.Components.Web.Bootstrap.csproj
+  detection_source: Havit.Blazor.Components.Web.Bootstrap/Havit.Blazor.Components.Web.Bootstrap.csproj
+  last_updated_by: Robert Haken
+  last_updated_on: 2023-11-15 10:53:50.000000000 Z
+- name: System.Text.Encodings.Web
+  description: Provides types for encoding and escaping strings for use in JavaScript,
+    HyperText Markup Language
+  package_url: https://www.nuget.org/System.Text.Encodings.Web
+  version: 8.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13209/default_42e87535b59c0cd77a89678c1c4ed24abc143f58.png
+  detection_source_url: https://github.com/caseyspaulding/Havit.Blazor/blob/master/Havit.Blazor.Grpc.Server/Havit.Blazor.Grpc.Server.csproj
+  detection_source: Havit.Blazor.Grpc.Server/Havit.Blazor.Grpc.Server.csproj
+  last_updated_by: Robert Haken
+  last_updated_on: 2023-11-14 15:03:33.000000000 Z
+- name: protobuf-net
+  description: Provides simple access to fast and efficient "Protocol Buffers" serialization
+    from .NET applications
+  package_url: https://www.nuget.org/protobuf-net
+  version: 3.2.26
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/12939/default_d871263d8798790404638a4d3692cc70b6389166.png
+  detection_source_url: https://github.com/caseyspaulding/Havit.Blazor/blob/master/Havit.Blazor.Grpc.Client.WebAssembly/Havit.Blazor.Grpc.Client.WebAssembly.csproj
+  detection_source: Havit.Blazor.Grpc.Client.WebAssembly/Havit.Blazor.Grpc.Client.WebAssembly.csproj
+  last_updated_by: Robert Haken
+  last_updated_on: 2023-06-02 12:29:28.000000000 Z
+- name: clean-css-cli
+  description: A command-line interface to clean-css CSS optimization library
+  package_url: https://www.npmjs.com/clean-css-cli
+  version: 5.6.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18113/image.png
+  detection_source_url: https://github.com/caseyspaulding/Havit.Blazor/blob/master/Havit.Bootstrap/package-lock.json
+  detection_source: Havit.Bootstrap/package.json
+  last_updated_by: dominikcrha
+  last_updated_on: 2023-09-20 15:31:02.000000000 Z
+- name: cross-env
+  description: Run scripts that set and use environment variables across platforms
+  package_url: https://www.npmjs.com/cross-env
+  version: 7.0.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15828/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
+  detection_source_url: https://github.com/caseyspaulding/Havit.Blazor/blob/master/Havit.Bootstrap/package-lock.json
+  detection_source: Havit.Bootstrap/package.json
+  last_updated_by: dominikcrha
+  last_updated_on: 2023-09-20 15:31:02.000000000 Z
+- name: postcss-cli
+  description: CLI for PostCSS
+  package_url: https://www.npmjs.com/postcss-cli
+  version: 10.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16326/default_97104dc50154593d2dde1d791400955934c9c715.png
+  detection_source_url: https://github.com/caseyspaulding/Havit.Blazor/blob/master/Havit.Bootstrap/package-lock.json
+  detection_source: Havit.Bootstrap/package.json
+  last_updated_by: dominikcrha
+  last_updated_on: 2023-09-20 15:31:02.000000000 Z
+- name: shx
+  description: Portable Shell Commands for Node
+  package_url: https://www.npmjs.com/shx
+  version: 0.3.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16496/default_55f3303d620c93eecbee69c43373d484f2be492f.png
+  detection_source_url: https://github.com/caseyspaulding/Havit.Blazor/blob/master/Havit.Bootstrap/package-lock.json
+  detection_source: Havit.Bootstrap/package.json
+  last_updated_by: Dominik Crha
+  last_updated_on: 2021-04-06 13:04:48.000000000 Z
